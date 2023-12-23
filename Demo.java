@@ -2,6 +2,6 @@ import java.util.*;
 
 public class Demo{
     public static void Main(String[] args){
-        System.out.println("Hello GitHub")
+        System.out.println("Hii GitHub")
     }
 }
